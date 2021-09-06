@@ -1,6 +1,6 @@
 Project: NFTickets
 
-NFTickets is a platform that allows you to buy, sell, trade, and collect tokenized and stylized NFT tickets for sporting events, conerts, dinner series, luxury travel and more. Tickets are stored in a collectors wallet on the paltform that can be used for entry to events, or to hold and flex.
+NFTickets is a platform that allows you to buy, sell, trade, and collect tokenized and stylized NFT tickets for sporting events, concerts, dinner series, luxury travel and more. Tickets are stored in a collectors wallet on the paltform that can be used for entry to events, or to hold and flex.
 
 Possible Workflow:
 Customer sets up profile > customer creates wallet on platform (for fiat and for storing NFT tickets) > customer searches for and purchases NFT ticket from the marketplace > Smart contract handles sale and exchange of the ticket. Transfer triggered upon payment/execution of contract.
